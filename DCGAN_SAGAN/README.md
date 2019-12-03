@@ -7,9 +7,10 @@ This project, I have implemented DCGAN completely. SAGAN implementation is incom
 
 Every `1000` iterations I have saved the Generator Model to the drive, to ensure maximum train time - I have seperated the process of calculating FID score.
 
-I am attaching the `python` code which I used to run to generate the images from the generator and then calculate the FID.
+I am attaching the [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) code which I used to run to generate the images from the generator and then calculate the FID.
 
-## Requirements
+## Requirements 
+
 The requirements for this project and all dependencies are there in the `requirements.txt` file.
 
 ## Files Included
